@@ -1,0 +1,31 @@
+{
+  "name": "burhan-resume",
+  "version": "1.0.0",
+  "description": "A CLI based resume using Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node.js",
+    "CLI",
+    "NPM",
+    "Resume"
+  ],
+  "author": "Burhan Bharmal",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "inquirer": "^6.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ibuli/burhan-resume.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ibuli/burhan-resume/issues"
+  },
+  "bin": {
+    "burhan-resume": "./index.js"
+  }
+}

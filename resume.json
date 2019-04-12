@@ -1,0 +1,36 @@
+{
+  "Education": [
+    "Secondary School (10th) from V.P. Ghetia School - Upleta",
+    "Diploma in Computer Engineering from Balaji Institute of Engineernig and Technology - Junagadh",
+    "Bachelour of Engineering in Computer Engineering from Ahmedabad Institute of Technology - Ahmedabad"
+  ],
+  "Past Experience": [
+    "Full Stack Developer at iFlair Technologies Pvt. Ltd - Ahmedabad (APR, 2017 - JUN, 2017)",
+    "MEAN Stack Developer at 200OK Solutions - Ahmedabad (JUL, 2017 - Present)",
+    "Contribution to the Open Source project - Github :- https://ibuli.github.io"
+  ],
+  "Tech Stack": [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "Angular",
+    "Node.js",
+    "MongoDB",
+    "Express",
+    "ReactJS",
+    "StimulusJS",
+    "Sass",
+    "Less"
+  ],
+  "Projects": [
+    "Buli Cricket:- http://bulicricket.herokuapp.com",
+    "Media Sharing:- https://mediasharing.herokuapp.com/#/",
+    "RESTful API using Node.js and Express:- https://github.com/ibuli/node-ex",
+    "TicTacToe Game using ReactJS, Heroku, GraphQL, Auth0:- https://github.com/ibuli/reactant",
+    "Node Starter Pack using ES6:- https://github.com/ibuli/node-starter-es6",
+    "Simple authentication app using Node.js and AngularJS:- https://github.com/ibuli/Media-Sharing",
+    "MEAN Stack app using Angular 7 and Angular Material:- https://github.com/ibuli/mean-app"
+  ],
+  "Personal Website": ["https://burhanbharmal.com"],
+  "Contact": ["Email:- bharamal.burhan@hotmail.com", "Call:- +919687907552"]
+}
